@@ -1,6 +1,5 @@
 import click
 import sys
-from click.core import F
 import openpyxl
 import csv
 import glob
